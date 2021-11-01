@@ -25,3 +25,5 @@ Vanilla button to activate is Home
 10. enjoy the insane amount of weapons or shields on the ground :)
 
 AutoHotkey: https://www.autohotkey.com/
+
+Credit goes to Lome for finding the glitch
