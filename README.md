@@ -7,4 +7,6 @@ If to many people start using this macro the devs will patch it out
 
 Have fun!
 
+Vanilla button to activate is Home
+
 AutoHotkey: https://www.autohotkey.com/
