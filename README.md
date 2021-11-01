@@ -1,4 +1,4 @@
-# MordhauDuep
+# MordhauDupe
 Must Install AutoHotKey for this macro to work
 when AutoHotKey is installed just douple click the file to run it
 
