@@ -30,6 +30,6 @@ Vanilla button to activate is Home
 
 AutoHotkey: https://www.autohotkey.com/
 
-***When you are done changing the script ctrl+s to save and just double click the file again and hit yes to the popup if  there is one***
+***When you are done changing the macro ctrl+s to save and just double click the file again and hit yes to the popup if  there is one***
 
 Credit goes to Lome for finding the glitch
