@@ -2,7 +2,7 @@
 breakvar = 1
 return
 
- home::
+ home:: ; Start the Macro
 loop, 4 {
 
 if breakvar = 1
