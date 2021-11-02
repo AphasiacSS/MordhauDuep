@@ -2,8 +2,6 @@
 
  keydelay = 35 ; how fast you want to drop your weapons
 
- delay = 6500 ; reconnect time
-
 SetKeyDelay, keydelay
 send, 1
 SetKeyDelay, keydelay
