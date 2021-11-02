@@ -10,7 +10,7 @@ return
 
 loop, 4 {
 
-if breakvar = 1
+if breakvar = 1 ; doulbe break to make sure it stops when told to
 break
 
 SetKeyDelay, keydelay
@@ -40,7 +40,7 @@ send, reconnect
 SetKeyDelay, 1
 send, {enter}
 
-if breakvar = 1
+if breakvar = 1 ; doulbe break to make sure it stops when told to
 break
 
 sleep delay
