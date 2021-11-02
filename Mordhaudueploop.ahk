@@ -1,32 +1,36 @@
-﻿end:: ; press end to stop the loop
+end:: ; press end to stop the loop
 breakvar = 1
 return
 
  home:: ; Start the Macro
 loop, 4 {
 
+keydelay = 35 ; how fast you want to drop your weapons
+
+delay = 6000 ; reconnect time
+
 if breakvar = 1
 break
 
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 1
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 2
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 3
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 4
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 5
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
 SetKeyDelay, 50
 SendInput, {PgDn}
@@ -38,7 +42,7 @@ send, {enter}
 if breakvar = 1
 break
 
-sleep 4800 ; change this time to accommodate your connection time, different pings affect this number
+sleep delay
 }
 
 Breakvar = 0
