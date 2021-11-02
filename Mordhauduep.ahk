@@ -1,23 +1,28 @@
-﻿home::
-SetKeyDelay, 25
+ home::
+
+ keydelay = 35 ; how fast you want to drop your weapons
+
+ delay = 6500 ; reconnect time
+
+SetKeyDelay, keydelay
 send, 1
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 2
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 3
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 4
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, 5
-SetKeyDelay, 25
+SetKeyDelay, keydelay
 send, g
 SetKeyDelay, 50
 SendInput, {PgDn}
