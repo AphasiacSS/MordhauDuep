@@ -44,6 +44,8 @@ if breakvar = 1
 break
 
 sleep delay
+
+^send, ESC ; for community servers, delete the ^ to enable
 }
 
 Breakvar = 0
