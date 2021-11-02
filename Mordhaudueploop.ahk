@@ -45,7 +45,7 @@ break
 
 sleep delay
 
-^send, ESC ; for community servers, delete the ^ to enable
+ ; send, ESC ; for community servers, delete the first ; to enable
 }
 
 Breakvar = 0
