@@ -3,11 +3,12 @@ breakvar = 1
 return
 
  home:: ; Start the Macro
+
+ keydelay = 35 ; how fast you want to drop your weapons
+
+ delay = 6000 ; reconnect time
+
 loop, 4 {
-
-keydelay = 35 ; how fast you want to drop your weapons
-
-delay = 6000 ; reconnect time
 
 if breakvar = 1
 break
