@@ -3,7 +3,7 @@
 
 Must Install AutoHotKey for this macro to work,
 
-**MordhauDupeLoop is under testing, it's the same macro as the other but removes the need for step 2&3.**
+**MordhauDupeLoop is under testing, it's the same macro as the other but removes the need for step 2.**
 
 **MordhauDupeLoop has a sleep time already inputed to accomedate my reconnect time this will most lickly have to be altered to match your connection time**
 
