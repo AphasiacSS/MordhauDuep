@@ -17,7 +17,7 @@ Have fun!
 
 Vanilla button to activate is Home
 
-1. Keybind Console to page down (if u have lutebot you probably dont have to worry about this)
+1. Keybind Console to page down or change in the macro (if u have lutebot you probably dont have to worry about this)
 2. Enter reconnect into console
 3. wait to reconnect
 4. have a weapon in hand
